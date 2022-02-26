@@ -1,4 +1,4 @@
-# LearnGit
+# LearnGith
 Learning Git
 
 ## Update 1
